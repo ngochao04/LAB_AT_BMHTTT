@@ -3,7 +3,6 @@
 ## 1. THÔNG TIN SINH VIÊN
 - **Họ và tên:** Triệu Ngọc Hào
 - **Mã số sinh viên:** 1150080050
-- **Lớp / Môn học:** An toàn thông tin
 
 ---
 
