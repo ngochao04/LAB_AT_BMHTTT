@@ -21,7 +21,7 @@
 
 ## 4. NỘI DUNG ĐÃ THỰC HIỆN
 1. **Thiết lập kết nối mạng:** Cấu hình địa chỉ IP tĩnh cố định cho cả 3 máy và kiểm tra thông mạng bằng lệnh `ping`.
-2. **Khởi tạo tài khoản kiểm thử:** Tạo user định danh sinh viên `trieungochao` (mật khẩu MSSV: `1150080050`) trên Windows Server.
+2. **Khởi tạo tài khoản kiểm thử:** Tạo user định danh sinh viên `trieungochao` (mật khẩu MSSV: `1150080050@Hao`) trên Windows Server.
 3. **Thực nghiệm giao thức Telnet (Port 23):**
    - Khởi chạy dịch vụ Telnet Server lắng nghe trên cổng 23.
    - Bật Wireshark trên máy Attacker lọc gói tin cổng 23 (`tcp.port == 23`).
