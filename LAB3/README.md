@@ -118,7 +118,7 @@ Toàn bộ bằng chứng lưu tại: `C:\LAB3\Evidence\`
 | TH5 – Sniffing & Wireshark | ✅ Hoàn thành – HTTP plaintext và TLS/443 (H9–H10) |
 | TH6 – DoS/DDoS & Mail Bombing | ✅ Hoàn thành – local_load_test 50 request/5 worker, phân tích dataset (H11) |
 | TH7 – Phishing & Social Engineering | ⚠️ Cần bổ sung – mới có 4/6 case, sai nhãn phân loại so với đề bài |
-| Thu thập Evidence | ✅ 11 ảnh (H1–H11) + log text |
+| Thu thập Evidence | ✅log text |
 | SHA-256 Evidence | ✅ `evidence_sha256.csv` đã tạo cho toàn bộ file Evidence |
 | Recovery & Verification | ✅ Đã gỡ Run key, Scheduled Task, dừng HTTP server, Defender vẫn bật sau cleanup |
 
