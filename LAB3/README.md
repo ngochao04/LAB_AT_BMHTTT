@@ -146,18 +146,5 @@ LAB_AT_BMHTTT/
     ├── README.md
     ├── 11_ĐHCNPM1-LAB3_1150080050-TrieuNgocHao.docx   
     ├── Evidence/
-    │   ├── H1_VM_WindowsVersion.png
-    │   ├── H2_ToolVersions.png
-    │   ├── H3_Baseline_Defender_Firewall.png
-    │   ├── H4_ProtectionHistory_EICAR.png
-    │   ├── H5_Event4625.png
-    │   ├── H6_Sysmon_Event1.png
-    │   ├── H7_Autoruns_LAB3_Run_Demo.png
-    │   ├── H8_ProcessExplorer_Python.png
-    │   ├── H9_HTTP_Plaintext.png
-    │   ├── H10_TLS_443.png
-    │   ├── H11_Load_and_Log_Analysis.png
-    │   ├── *.txt / *.csv (log đã làm sạch)
-    │   └── evidence_sha256.csv
     
 ```
