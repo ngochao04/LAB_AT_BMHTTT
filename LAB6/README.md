@@ -3,7 +3,7 @@ LAB 6 – XÁC THỰC ACTIVE DIRECTORY VÀ CHÍNH SÁCH TRUY CẬP TRÊN pfSense
 1. THÔNG TIN SINH VIÊN
 
 Họ và tên: Triệu Ngọc Hào
-MSSV: 1160080050
+MSSV: 1150080050
 Lớp: 11DHCNPM1
 Tên bài thực hành: LAB 6 – Xác thực Active Directory và chính sách truy cập trên pfSense
 
