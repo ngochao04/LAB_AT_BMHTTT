@@ -3,7 +3,7 @@
 ## 1. THÔNG TIN SINH VIÊN
 
 Họ và tên: Triệu Ngọc Hào  
-MSSV: 1160080050  
+MSSV: 1150080050  
 Lớp: 11DHCNPM1  
 Tên bài thực hành: LAB 7 – Xây dựng chính sách Web Protection trên mô hình pfSense + Web Proxy
 
